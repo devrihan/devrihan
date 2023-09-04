@@ -1,4 +1,4 @@
-
+![logo](https://github.com/devrihan/devrihan/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sk Rihan Akhtar</h1>
 <h3 align="center">A passionate software engineering enthusiast from India</h3>
 
