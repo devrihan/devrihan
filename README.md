@@ -35,6 +35,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrihan" alt="devrihan" /></a> </p>
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> </p>
 
+[![An image of @devrihan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devrihan)](https://holopin.io/@devrihan)
+
 ![snake gif](https://github.com/devrihan/devrihan/blob/output/github-contribution-grid-snake-dark.svg)
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> </p>
 
