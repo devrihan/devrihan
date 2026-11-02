@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sk Rihan Akhtar</h1>
-<h3 align="center">A software engineer and tester</h3>
+<h3 align="center">A software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrihan&label=Profile%20views&color=0e75b6&style=flat" alt="devrihan" /> </p>
 
 
-- 📫 Reach me at- **rihandav2004@gmail.com**
+- 📫 Reach me at- **rihanswork@gmail.com**
 
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> </p>
